@@ -45,6 +45,11 @@
 
 For details on building and developing the extension, see [DEVELOPMENT.md](/DEVELOPMENT.md)
 
+## Developer Documentation
+
+For technical details about how Kilocode works internally:
+- [AI Prompts and Context Handling](/docs/developer/ai-prompts-and-context.md) - Comprehensive guide to how prompts are constructed and context is fed to AI models
+
 ## Contributors to Kilo
 
 Thanks to all the contributors who help make Kilo Code better!
