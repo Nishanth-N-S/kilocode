@@ -18,6 +18,20 @@ This document is essential for understanding:
 - How different types of mentions are processed
 - The complete message format sent to AI providers
 
+### [Slash Commands and Workflows](./slash-commands.md)
+
+Detailed documentation covering:
+- **Built-in Commands**: `/newtask`, `/newrule`, `/reportbug`, `/smol` (condense)
+- **Custom Workflows**: How to create and use custom workflow commands
+- **Command Processing**: How slash commands are detected and transformed
+- **Integration**: How commands work with @ mentions and context
+
+This document explains:
+- How slash commands modify AI behavior
+- The prompt transformations for each command
+- Creating custom workflows in `.kilocode/workflows/`
+- Complete examples showing commands + mentions together
+
 ## Purpose
 
 These documents serve multiple purposes:
